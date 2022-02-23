@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    margin: 2rem;
+}
+section {
+    padding: 5rem;
+    margin: 2rem;
+    display: flex;
+}
+
+body{
+    background-color: #023e8a;
+    color: #023e8a;
+    font-size: 1.2rem;
+}
+
+.nav__estilos{
+    background-image: linear-gradient(to left, white, #023e8a);
+}
+.section{
+    height: 4 rem;
+    width: 4 rem;
+}
+
+.imgs{
+    width: 40vh;
+    height: 40vh;
+}
+
+.imgs-car{
+    height: 40vh;
+    object-fit: cover;
+}
+
+.section-position{
+    background-color: white;
+    justify-content: space-between;
+    position: relative;
+}
+.footer{
+    display: flex;
+    color: white;
+    justify-content: center;
+}
+
+
+
+
+@media only screen and (min-width: 320px) {
+
+
+}
+
+@media only screen and (min-width: 480px) {
+
+
+}
+@media only screen and (min-width: 576px) {
+        
+
+}
+
+@media only screen and (min-width: 768px) {
+
+    
+}
+
+@media only screen and (min-width: 991px) {
+            
+
+}
+
+@media only screen and (min-width: 1200px) {
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
